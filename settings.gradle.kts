@@ -1,0 +1,1 @@
+rootProject.name = "com.example.pharmasy_mangment_server"
